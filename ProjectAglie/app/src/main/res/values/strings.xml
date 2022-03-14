@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ProjectAglie</string>
+    <string name="dialog_ok_btn">Dialog</string>
+    <string name="noNetworkFound">noNetworkFound</string>
+</resources>
