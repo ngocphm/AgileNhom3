@@ -2,4 +2,16 @@
     <string name="app_name">ProjectAglie</string>
     <string name="dialog_ok_btn">Dialog</string>
     <string name="noNetworkFound">noNetworkFound</string>
+    <string name="welcomeback">Welcomeback</string>
+    <string name="login_to_continue">Login to continue</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="add_image">Add Image</string>
+    <string name="name">Name</string>
+    <string name="confirm_password">Confirm PassWord</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="signin">Sign In</string>
+    <string name="select_user">Select User</string>
+    <string name="type_a_massage">Type a massage</string>
 </resources>
